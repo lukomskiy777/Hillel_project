@@ -2,7 +2,6 @@ package com.hillel.lukomskiy.homework.fitnesstrack;
 
 public class TrackAcnt {
 
-
     private String name;
     private int day;
     private int month;
