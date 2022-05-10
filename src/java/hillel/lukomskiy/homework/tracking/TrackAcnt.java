@@ -1,6 +1,7 @@
-package com.hillel.lukomskiy.homework.fitnesstrack;
+package hillel.lukomskiy.homework.tracking;
 
 public class TrackAcnt {
+
 
     private String name;
     private int day;
@@ -117,3 +118,5 @@ public class TrackAcnt {
                 + "age " + this.age);
     }
 }
+
+

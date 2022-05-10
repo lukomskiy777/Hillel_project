@@ -1,6 +1,6 @@
-package com.hillel.lukomskiy.homework.fitnesstrack;
+package hillel.lukomskiy.homework.tracking;
 
-public class MainTrack {
+public class Main {
     public static void main(String[] args) {
         new TrackAcnt("Andry", 16, 11, 1992, "andry@email.com", "+63463", "Lukomskiy", 80, 80, 30000).printAccountInfo();
         new TrackAcnt("Helena", 14, 11, 2001, "helena@email.com", "+25325234", "Lukomskaja", 50, 60, 10000).printAccountInfo();
